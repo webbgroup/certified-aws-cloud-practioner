@@ -98,7 +98,32 @@ Reserved - pay up front for the compute
 Spot - flex pricing, make use of low demand. Price moves around
 Dedicated Hosts - Government or Licensing Requirements.
 
-if a Spot Instance is terminated by Amazon EC2, you will not be charged for a partial hour of usage. However if you termninate the instance yourself, you will be charged the instance hour.
+If a Spot Instance is terminated by Amazon EC2, you will not be charged for a partial hour of usage. However if you terminate the instance yourself, you will be charged the instance hour.
+
+# Using EC2
+
+OS's have a free OS - Amazon Linux
+Ports
+Firewalls - SSH TCP 22 Source My IP, only I can SSH in. If your IP address changes, you'll have to change it within the console.
+Private Key to open the Public Key
+
+# Exam Tips
+* It is a server, NOT serverless
+* Use a Private Key to connect to EC2
+* Common ports Port 22 SSH, Port 3389 RDP Windows, HTTP, HTTPS
+* To let everything in 0.0.0.0/0  To just one 0.0.0.0/32
+* Always Design for failure. Have an EC2 instance in each availability zone.
+
+## Command Line Tool
+
+3 Ways to interact with AWS
+1. Using the Console
+2. Using Command Line Interface (CLI)
+3. Using the Software Development Kits (SDK)
+
+## Using Roles
+
+Wise to assign a read-only role to the EC2 instance in the event the EC2 gets hacked.
 
 
 
