@@ -29,6 +29,8 @@
 
 14. Amazon Congito User Pools - Managed Service which can be used to manage user authentications to mobile applications. It can scale up to millions of users. It supports direct user sign-in as well as federated users using social and enterprise identity providers.
 
+### Enterprise Pipeline
+
 15. Code Commit - Managed Source Control Service
 
 Code Artifact -
@@ -38,3 +40,7 @@ Code Build -
 Code Deploy - like Jenkins
 
 Code Pipeline
+
+15. Amazon Direct Connect - Cloud Service solution that makes it easy to establish a dedicated network connection from the organizations premises to AWS.
+
+16. Amazon QuickSight - Fully-managed Service that allows for insightful business intellegence reporting with creative data delivery methods, including graphical and interactive dashboards.
