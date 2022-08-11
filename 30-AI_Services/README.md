@@ -98,17 +98,3 @@ Every time you talk to Alexa, you're using Lambda
 5. Can have multiple versions of your code within Lambda
 6. Understand the shared responsibility model.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
