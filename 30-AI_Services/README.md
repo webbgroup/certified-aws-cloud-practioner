@@ -71,10 +71,40 @@ Cloud Guru - ran for free for the first 2 years. and allows you to get charged O
 
 ## Priced
 
-1 Million requests are free.
+1. Number of requests - Million requests are free.
 .20 cents for next Million.
 
-2. Duration - calculated from the time your code begins until it returns or otherwise terminates
+2. Duration - calculated from the time your code begins until it returns or otherwise terminates. Rounded up to the nearest millisecond
+
+Version control can be used.
+
+YOU are responsible for your own code. Amazon is responsible for everything else.
+
+### Why do we love Lambda
+
+* Scales Great!
+* No Servers!
+* Super Cheap!
+
+Every time you talk to Alexa, you're using Lambda
+
+
+# Lambda Exam Tips
+
+1. Lambda scales out
+2. Lambda functions are independent. 1 event = 1 function
+3. Lambda is serverless
+4. Know how it is priced, per invocation and duration
+5. Can have multiple versions of your code within Lambda
+6. Understand the shared responsibility model.
+
+
+
+
+
+
+
+
 
 
 
