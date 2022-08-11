@@ -13,6 +13,7 @@ Athena querying data within S3.
 * Generate business reports on data stored in S3
 * Analyze AWS cost and Usage reports
 * Run queries on click-stream data
+* Compatible with formats such as CSV, JSON, ORC, AVRO and Parquet
 
 
 # What is Macie??
