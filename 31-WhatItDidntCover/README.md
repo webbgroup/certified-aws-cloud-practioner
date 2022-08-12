@@ -27,7 +27,7 @@
 
 13. Amazon Elastic Container Service - 1. Running Docker Containers. 2 Simple API call to launch and stop container based applications.
 
-14. Amazon Congito User Pools - Managed Service which can be used to manage user authentications to mobile applications. It can scale up to millions of users. It supports direct user sign-in as well as federated users using social and enterprise identity providers.
+14. Amazon Cognito User Pools - Managed Service which can be used to manage user authentications to mobile applications. It can scale up to millions of users. It supports direct user sign-in as well as federated users using social and enterprise identity providers.
 
 ### Enterprise Pipeline
 
