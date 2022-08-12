@@ -97,4 +97,3 @@ Every time you talk to Alexa, you're using Lambda
 4. Know how it is priced, per invocation and duration
 5. Can have multiple versions of your code within Lambda
 6. Understand the shared responsibility model.
-

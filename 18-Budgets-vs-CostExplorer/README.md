@@ -1,6 +1,6 @@
 ## AWS Budgets
 * provides alerts for when costs start going over.
-* Used for forcasting or exeeding costs.
+* Used for forecasting or exceeding costs.
 
 ## AWS Cost Explorer
 * AWS is visualization AFTER they have been incurred.
@@ -46,6 +46,4 @@ Allows you to run command against resources like in Amazon Systems Manager
 
 Apply automation against fleets with the said Metadata Tags.
 Resource Groups in combination with AWS Systems manager is highly powerful.
-
-
 

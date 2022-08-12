@@ -23,7 +23,7 @@ Without prior approval
 * Elastic Load Balancers
 * Amazon RDS
 * Amazon CloudFront
-* Amazon Auroura
+* Amazon Aurora
 * Amazon API Gateway
 * AWS Lambda
 * Amazon Lightsail Resources - More OS involved

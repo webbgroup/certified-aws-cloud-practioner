@@ -9,7 +9,7 @@
 
 4. AWS CloudFormation Change Sets - used to preview changes to an AWS resource
 
-5. Amazon CloudFront - Used to efficently stream content accross the globe.
+5. Amazon CloudFront - Used to efficiently stream content across the globe.
 
 6. Security Groups on an EC2 Instance - You can change a Security Group even with the EC2 instance is running.
 
@@ -19,7 +19,7 @@
 
 9. AWS Config - Allows to get a snapshot of the initial configuration, keeping multiple date-stamped changes in a reviewable history.
 
-10. AWS Data Sync - simple and fast way to move huge amounts of data (hundreds of terrabytes) between on-prem storage to S3, EFS, FSX
+10. AWS Data Sync - simple and fast way to move huge amounts of data (hundreds of terabytes) between on-prem storage to S3, EFS, FSX
 
 11. Amazon Detective - security service that uses machine learning capabilities on the automatically collected log data to help customers perform efficient and fast security investigations
 
@@ -39,7 +39,7 @@ Code Build -
 
 Code Deploy - like Jenkins
 
-Code Pipeline
+Code Pipeline - Build, test, and deployments
 
 15. Amazon Direct Connect - Cloud Service solution that makes it easy to establish a dedicated network connection from the organizations premises to AWS.
 
